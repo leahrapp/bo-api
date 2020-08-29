@@ -1,0 +1,17 @@
+C:\Users\Leah\source\repos\BO-API\BO_API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Leah\source\repos\BO-API\BO_API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Leah\source\repos\BO-API\BO_API\bin\Debug\netcoreapp2.2\BO_API.deps.json
+C:\Users\Leah\source\repos\BO-API\BO_API\bin\Debug\netcoreapp2.2\BO_API.runtimeconfig.json
+C:\Users\Leah\source\repos\BO-API\BO_API\bin\Debug\netcoreapp2.2\BO_API.runtimeconfig.dev.json
+C:\Users\Leah\source\repos\BO-API\BO_API\bin\Debug\netcoreapp2.2\BO_API.dll
+C:\Users\Leah\source\repos\BO-API\BO_API\bin\Debug\netcoreapp2.2\BO_API.pdb
+C:\Users\Leah\source\repos\BO-API\BO_API\obj\Debug\netcoreapp2.2\BO_API.csprojAssemblyReference.cache
+C:\Users\Leah\source\repos\BO-API\BO_API\obj\Debug\netcoreapp2.2\BO_API.AssemblyInfoInputs.cache
+C:\Users\Leah\source\repos\BO-API\BO_API\obj\Debug\netcoreapp2.2\BO_API.AssemblyInfo.cs
+C:\Users\Leah\source\repos\BO-API\BO_API\obj\Debug\netcoreapp2.2\BO_API.csproj.CoreCompileInputs.cache
+C:\Users\Leah\source\repos\BO-API\BO_API\obj\Debug\netcoreapp2.2\BO_API.RazorAssemblyInfo.cache
+C:\Users\Leah\source\repos\BO-API\BO_API\obj\Debug\netcoreapp2.2\BO_API.RazorAssemblyInfo.cs
+C:\Users\Leah\source\repos\BO-API\BO_API\obj\Debug\netcoreapp2.2\BO_API.RazorTargetAssemblyInfo.cache
+C:\Users\Leah\source\repos\BO-API\BO_API\obj\Debug\netcoreapp2.2\BO_API.dll
+C:\Users\Leah\source\repos\BO-API\BO_API\obj\Debug\netcoreapp2.2\BO_API.pdb
+C:\Users\Leah\source\repos\BO-API\BO_API\obj\Debug\netcoreapp2.2\BO_API.genruntimeconfig.cache
